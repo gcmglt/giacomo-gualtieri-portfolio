@@ -9,7 +9,7 @@ import Timeline from "../components/Timeline/Timeline";
 
 export default function Home() {
   return (
-    <div className="bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-200 min-h-screen">
+    <div className="bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-200 h-screen overflow-scroll scrollbar scrollbar-track-stone-400/40 scrollbar-thumb-orange-400/70 cursor-crosshair">
       <Head>
         <title>Giacomo Gualtieri</title>
       </Head>
