@@ -12,12 +12,8 @@ const Skills = () => {
             <SkillsItem
               key={i}
               skillLink={skills.skillLink}
-              skillTarget={skills.skillTarget}
-              skillRel={skills.skillRel}
               skillSrc={skills.skillSrc}
               skillAlt={skills.skillAlt}
-              skillH={skills.skillH}
-              skillW={skills.skillW}
             />
           ))}
         </div>

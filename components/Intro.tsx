@@ -26,8 +26,8 @@ const Intro = () => {
       />
       <div className="max-w-xl mb-5">
         <span className="text-xl font-semibold">
-          Hi! My name's Giacomo Gualtieri and I'm a front end developer from Italy, who focuses on
-          ReactJS.
+          Hi! My name&apos;s Giacomo Gualtieri and I&apos;m a front end developer from Italy, who
+          focuses on ReactJS.
         </span>
         <p className="text-md mt-3">
           I love to design and develop fresh, <span className="animate-spin">minimal</span>{" "}

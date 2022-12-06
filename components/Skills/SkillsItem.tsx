@@ -1,11 +1,7 @@
 type MyProps = {
   skillLink: string;
-  skillTarget: string;
-  skillRel: string;
   skillSrc: string;
   skillAlt: string;
-  skillH: string;
-  skillW: string;
 };
 
 const SkillsItem = (props: MyProps) => {
